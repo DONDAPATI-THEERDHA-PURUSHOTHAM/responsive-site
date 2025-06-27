@@ -28,10 +28,7 @@ responsive-site/
 - HTML5
 - CSS3 (Flexbox, Media Queries, Variables, clamp(), min(), max())
 - JavaScript (Vanilla)
-
-
-## 📷 Screenshots
-
+  
 ### Desktop View
 > Wide layout with horizontal nav
 
