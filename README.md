@@ -40,7 +40,7 @@ responsive-site/
 ## 🚀 How to Use
 
 1. **Clone the Repository**
-   git clone https://github.com/your-username/responsive-site.git
+   git clone https://github.com/DONDAPATI-THEERDHA-PURUSHOTHAM/responsive-site.git
    cd responsive-site
 Open in Browser
 
